@@ -1,3 +1,21 @@
+# NativeBase Feedback components practice
+
+### Team members
+
+- Díaz Santamaría Oscar Fernando
+- García Betts Gabriel Sebastian
+- Santoyo Lagunes Ángel Abraham
+- Terán Suárez Rogelio Yahir
+
+## Feedback components
+
+In this project we reviewd the syntax and implementation for the five components under the 'feedback' section for NativeBase components:
+- Alert
+- Progress
+- Skeleton
+- Spinner
+- Toast
+  
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
